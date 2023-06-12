@@ -4,7 +4,7 @@ This repository contains a collection of Data Structures and Algorithms (DSA) pr
 
 | Platform | Difficulty | Question | Solution |
 |----------|------------|----------|----------|
-| LeetCode | Medium     | [Problem 1]([https://leetcode.com/problems/missing-number]) | [Solution 1](https://github.com/sushilsoniwal24/MY-DSA-SHEET/blob/master/P_12_Missing_Number.java) |
+| LeetCode | Medium     | [Problem 1](https://leetcode.com/problems/missing-number/description/) | [Solution 1](https://github.com/sushilsoniwal24/MY-DSA-SHEET/blob/master/P_12_Missing_Number.java) |
 
 ## Contributing
 
